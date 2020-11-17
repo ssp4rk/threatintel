@@ -27,3 +27,11 @@
 |mailer[.]naver-nreply.ml|210.16.120.34|2020-11-13 16:20:26|
 |manager[.]data-download.ml|210.16.120.34|2020-11-13 16:45:20|
 |down[.]drop-boxes.tk|210.16.120.34|2020-11-13 17:43:07|
+|midsecurity[.]org|211.104.160.79|2020-11-02 20:25:21|
+|securitycounci1report[.]org|211.104.160.79|2020-11-03 01:41:35|
+|naver[.]midsecurity.org|211.104.160.79|2020-11-09 09:22:59|
+|netsecurityservice[.]com|211.104.160.79|2020-11-10 07:18:09|
+|mail[.]daum-noreply.tk|210.16.120.34|2020-11-16 06:26:27|
+|downloader-manager[.]pe.hu|45.13.135.103|2020-11-17 03:52:06|
+|mail[.]naver-manager.tk|210.16.120.34|2020-11-17 03:31:48|
+|mail[.]daum-manager.tk|210.16.120.34|2020-11-17 05:47:33|
