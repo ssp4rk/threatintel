@@ -35,3 +35,5 @@
 |downloader-manager[.]pe.hu|45.13.135.103|2020-11-17 03:52:06|
 |mail[.]naver-manager.tk|210.16.120.34|2020-11-17 03:31:48|
 |mail[.]daum-manager.tk|210.16.120.34|2020-11-17 05:47:33|
+|mail[.]naver-security.ml|210.16.120.34|2020-11-18 16:17:14|
+|myaccount[.]google-signin.ga|210.16.120.34|2020-11-18 16:17:36|
