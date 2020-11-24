@@ -39,3 +39,4 @@
 |myaccount[.]google-signin.ga|210.16.120.34|2020-11-18 16:17:36|
 |pelebra[.]atwebpages.com|185.176.43.98|2020-11-18 09:58:48|
 |mail[.]nv-manager.tk|210.16.120.34|2020-11-20 23:22:26|
+|europe.pw-change.com|52.177.14.24|2020-11-23 08:39:00|
