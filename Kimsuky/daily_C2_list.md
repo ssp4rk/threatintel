@@ -50,3 +50,7 @@
 |mailer-imp[.]naver-security.ml|210.16.120.34|2020-11-24 10:05:07|
 |mailer[.]hanmail-security.ml|210.16.120.34|2020-11-24 05:45:11|
 |account[.]google-signin.ga|210.16.120.34|2020-11-24 17:05:27|
+|hotmail[.]outllook.tk|210.16.120.34|2020-11-25 23:21:31|
+|my[.]grnail-signin.ga|210.16.120.34|2020-11-26 00:26:34|
+|soul[.]hanmail-security.ml|210.16.120.34|2020-11-28 00:25:26|
+|soul[.]nv-manager.tk|210.16.120.34|2020-11-27 23:59:20|
