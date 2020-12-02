@@ -54,4 +54,10 @@
 |my[.]grnail-signin.ga|210.16.120.34|2020-11-26 00:26:34|
 |soul[.]hanmail-security.ml|210.16.120.34|2020-11-28 00:25:26|
 |soul[.]nv-manager.tk|210.16.120.34|2020-11-27 23:59:20|
-|downloader-manager.pe.hu|185.224.138.29|2020-11-30 12:48:52|
+|downloader-manager[.]pe.hu|185.224.138.29|2020-11-30 12:48:52|
+|files[.]mydrives.ml|210.16.120.34|2020-11-30 23:37:09|
+|poseidon[.]outllook.tk|210.16.120.34|2020-12-01 02:01:33|
+|poseidon-last-imp[.]hanmail-security.ml|210.16.120.34|2020-12-02 00:47:26|
+|poseidon-nor[.]hanmail-security.ml|210.16.120.34|2020-12-02 00:47:30|
+|signin[.]gaccount.ml|210.16.120.34|2020-12-02 02:26:14|
+|autoway[.]huyndai.ml|185.224.138.29|2020-11-30 09:46:08|
