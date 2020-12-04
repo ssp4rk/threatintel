@@ -61,3 +61,4 @@
 |poseidon-nor[.]hanmail-security.ml|210.16.120.34|2020-12-02 00:47:30|
 |signin[.]gaccount.ml|210.16.120.34|2020-12-02 02:26:14|
 |autoway[.]huyndai.ml|185.224.138.29|2020-11-30 09:46:08|
+|inject[.]korea-inj.tk|210.16.120.34|2020-12-03 05:43:27|
