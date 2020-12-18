@@ -80,3 +80,8 @@
 |prometeus[.]hades-echo.tk|210.16.120.34|2020-12-10 06:28:30|
 |mail[.]naver-warning.ml|210.16.120.34|2020-12-10 06:42:30|
 |signin[.]gaccount.cf|210.16.120.34|2020-12-11 17:09:11|
+|manager[.]naver-warning.ml|210.16.120.34|2020-12-14 19:54:39|
+|alert[.]secure-manager.tk|210.16.120.34|2020-12-14 18:40:56|
+|decaft[.]live|45.13.135.103|2020-12-16 01:53:27|
+|bmail-link[.]koreasgov.co.kr|172.106.32.28|2020-12-16|
+|vacation-story[.]esy.es|185.224.138.29|2020-12-16|
